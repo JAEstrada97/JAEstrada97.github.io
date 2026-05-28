@@ -4,4 +4,4 @@
   BOO!
  </details>
 
-<a href="exit" download>Download App</a>
+<a href="test.zip" download>Download .zip</a>
