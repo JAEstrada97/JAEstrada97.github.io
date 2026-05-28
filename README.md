@@ -4,4 +4,4 @@
   BOO!
  </details>
 
-<a href="exit/exit.exe" download>Download App</a>
+<a href="exit" download>Download App</a>
