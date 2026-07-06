@@ -23,6 +23,8 @@
   </ul>
 </nav>
 
+# Home
+
 <details> <summary>CLICK HERE TO SEE A SPECIAL MESSAGE!</summary>
   BOO!
  </details>
