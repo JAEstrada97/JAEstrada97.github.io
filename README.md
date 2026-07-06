@@ -10,6 +10,7 @@
 
 <nav class="navbar">
   <ul>
+    <li> <a href="README.html">Home</a></li>
     <li> <a href="NewPage.html">New Page</a></li>
   </ul>
 </nav>
