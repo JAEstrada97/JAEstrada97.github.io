@@ -1,3 +1,11 @@
+<!-- Comment out code -->
+
+<!-- 
+# A first-level heading
+## A second-level heading
+### A third-level heading 
+-->
+
 # JAEstrada97.github.io
 
 <!-- Comment out code -->
@@ -10,7 +18,7 @@
 
 <nav class="navbar">
   <ul>
-    <li> <a href="README.html">Home</a></li>
+    <li> <a href="JAEstrada97.github.io">Home</a></li>
     <li> <a href="NewPage.html">New Page</a></li>
   </ul>
 </nav>
