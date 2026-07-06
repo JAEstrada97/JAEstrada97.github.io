@@ -1,5 +1,13 @@
 # JAEstrada97.github.io
 
+<!-- Comment out code -->
+
+<!-- 
+  Multi-line comment.
+  Blah
+  Blah
+-->
+
 <nav class="navbar">
   <ul>
     <li> <a href="NewPage.html">New Page</a></li>
