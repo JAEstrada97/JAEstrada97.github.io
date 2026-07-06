@@ -18,7 +18,7 @@
 
 <nav class="navbar">
   <ul>
-    <li> <a href="/JAEstrada97.github.io">Home</a></li>
+    <li> <a href="/jaestrada97.github.io">Home</a></li>
     <li> <a href="NewPage.html">New Page</a></li>
   </ul>
 </nav>
